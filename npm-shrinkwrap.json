@@ -1281,6 +1281,11 @@
           "version": "2.4.2",
           "from": "lodash@>=2.4.1 <2.5.0",
           "resolved": "http://registry.npmjs.org/lodash/-/lodash-2.4.2.tgz"
+        },
+        "request": {
+          "version": "2.81.0",
+          "from": "request@2.81.0",
+          "resolved": "http://registry.npmjs.org/request/-/request-2.81.0.tgz"    
         }
       }
     },
