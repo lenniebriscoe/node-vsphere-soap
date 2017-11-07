@@ -1284,7 +1284,7 @@
         },
         "request": {
           "version": "2.81.0",
-          "from": "request@2.81.0",
+          "from": "request@>=2.81.0 <2.81.4",
           "resolved": "http://registry.npmjs.org/request/-/request-2.81.0.tgz"    
         }
       }
